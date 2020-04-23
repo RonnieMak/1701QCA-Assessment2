@@ -92,6 +92,9 @@ The first concept I want to put in the design is using the light sensor to achie
 
 The photo shown some basic concept of the model car and the LED and seosor location.
 
+https://youtu.be/TKhCr-dQMBY
+This video show how the light level seosor works and after understanding it I am putting it in my design. 
+
 ### Design concept 2 ###
 
 The second concept I want to put into the design is use the acceleration sensor to warn the user they are going too fast. Most of the accident on road is cause by the unwareness of the driver. It doesn't matter if the car is safe in emergency, the best way to prevent it is avoid the getting into danger situation. I want to make a warning sound using the buzzer, when the sensor sensed that the acceleration is over a certain number the buzzer will make a warning sound. 
@@ -105,6 +108,11 @@ This link shown how the acclerometer work and I am going to learn how to use it 
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+
+So the final concept is to join the first two idea together and design how to build the model car using some simple material. 
+
+![Image](final.jpg)
+This image shown the final concept of joinning the two inital idea together and the material I am going to use. And the location of each element 
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -120,7 +128,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
-![Image](missingimage.png)
+![Image](code2.jpg)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
