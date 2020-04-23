@@ -114,7 +114,7 @@ This link shown how the acclerometer work and I am going to learn how to use it 
 
 So the final concept is to join the first two idea together and design how to build the model car using some simple material. In the ultimate product, I will add some more function to the model car such as steering and more lighting effect. But for this stage, I would like to have a simple model to test if the concept is up to my design intent. 
 
-![Image](final2.jpg)
+![Image](conpect.jpg)
 
 This image shown the final concept of joinning the two inital idea together and the material I am going to use. And the location of each element. Also a list of upcoming feature I want to add to the final product.
 
@@ -134,8 +134,18 @@ Ensure you include comments about the choices you've made along the way.*
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 ![Image](code2.jpg)
-This is the code for the buzzer to make the warning sound
+This is the code for the second concpet, buzzer to make the warning sound
 
+![Image](lighton.jpg)
+This is the code for the first concept, display base on light level and allow user to select which color of light to turn.( no complete need improve)
+![Image](final2.jpg)
+This is the sketch for the simple model build, using some very basic material and it is a very rough model
+![Image](model3.jpg)
+This is the physical model I build 
+![Image](model2.jpg)
+This is another angel of the model
+![Image](model1.jpg)
+I am considering use something else for the wheels since it doesn't look like it is gonna work with the cardboard.
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 Up to this point, I 
