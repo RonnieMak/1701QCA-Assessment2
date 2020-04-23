@@ -70,11 +70,14 @@ This project is related to mine because this gives me an idea to build the model
 
 https://www.mantralabsglobal.com/blog/10-basic-principles-of-interaction-design/
 
-This actile is about the basic principles of interaction design. I used this principles to remind myself when I designing the final product. I found some of these principles very useful especially the affordability and functional minimalism. Sometimes I was a bit greddy and I want to put as much function in one design as I can but then it will be too complicated and messy, making it hard to use. So I learned to break it into different part and simplify the design. 
+This article is about the basic principles of interaction design. I used this principles to remind myself when I designing the final product. I found some of these principles very useful especially the affordability and functional minimalism. Sometimes I was a bit greddy and I want to put as much function in one design as I can but then it will be too complicated and messy, making it hard to use. So I learned to break it into different part and simplify the design. 
 
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+https://web.archive.org/web/20130602154034/http://interactionivrea.org/proxy/src.php?dest=en%2Fabout%2Finteractiondesign%2Findex.asp
+
+This article summary the general idea of interactive design. From sofeware to hardware as well as services Only when these three things are harmony together make a good interactive design. It also pointed out the different with traditional design and why is it important in today society. The real needs and possibilities to improve human existence are the is the main point of interactive design. This also reminds me there is a lot more interactive design in our life than we thought. 
 
 ## Conceptual progress ##
 
@@ -110,8 +113,8 @@ This link shown how the acclerometer work and I am going to learn how to use it 
 
 So the final concept is to join the first two idea together and design how to build the model car using some simple material. In the ultimate product, I will add some more function to the model car such as steering and more lighting effect. But for this stage, I would like to have a simple model to test if the concept is up to my design intent. 
 
-![Image](final.jpg)
-This image shown the final concept of joinning the two inital idea together and the material I am going to use. And the location of each element 
+![Image](final2.jpg)
+This image shown the final concept of joinning the two inital idea together and the material I am going to use. And the location of each element. Also a list of upcoming feature I want to add to the final product.
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
