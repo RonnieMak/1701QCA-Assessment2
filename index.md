@@ -29,7 +29,8 @@ https://www.fastcompany.com/90288239/an-apple-alum-just-invented-the-next-skeuom
 This project is related to mine because this is the technology that can be used in the interior design in the car. Sometime we might find ourseleves consistantly adjusting the light in and outside the car. With this technology, the light will adjust itself by the environment. I think I can put this in my design using the light sensor in the mirco bit to dim and lit up the light. 
 
 ### Related project 3 ###
-
+Interactive Mario Mushroom Block
+https://www.hackster.io/sclandinin/interactive-mario-mushroom-block-2235dd
 ![Image]()
 
 ### Related project 4 ###
