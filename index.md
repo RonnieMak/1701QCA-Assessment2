@@ -56,10 +56,13 @@ https://www.hackster.io/microBob/whatyouneed-
 This project is related to mine because the technique it used to display on a LCD pixel monitor base on different data could be included in my design. The mirco-bit has a small pixel display itself, I might not be able have a external screen like this project shown, however, the idea of display different things base on different condition could be used in my design. I probably have to discover more code for the mirco-bit to be able to do that. 
 
 ### Related project 6 ###
+Rocky Rover: Robotic Vision System PixyCam & Arduino 101
 
-![Image]()
+https://www.hackster.io/RONDAGDAG/rocky-rover-robotic-vision-system-pixycam-arduino-101-bd16f0
 
+![Image](car.jpg)
 
+This project is related to mine because this gives me an idea to build the model car. When building a model car, the hardest part would be making the chassis to have a appropriate size and function. It need to be strong enought to hold the wheel and others part that might need to be on it. So this project has gave me a great idea of how to build the car and the element that might be needed to make it look like a 'car'. 
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
