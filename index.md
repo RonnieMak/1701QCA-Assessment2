@@ -67,6 +67,7 @@ This project is related to mine because this gives me an idea to build the model
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
+
 https://www.mantralabsglobal.com/blog/10-basic-principles-of-interaction-design/
 
 This actile is about the basic principles of interaction design. I used this principles to remind myself when I designing the final product. I found some of these principles very useful especially the affordability and functional minimalism. Sometimes I was a bit greddy and I want to put as much function in one design as I can but then it will be too complicated and messy, making it hard to use. So I learned to break it into different part and simplify the design. 
@@ -78,13 +79,11 @@ This actile is about the basic principles of interaction design. I used this pri
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+
 Improve the user experience of the car 
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 The first concept I want to put in the design is using the light sensor to achieve some action. I know there is some simliar excisting design out there but for this one I want to do more than automaticlly turn the light on and off I want the user have a choice, by add the button function I will let the user the choice the color of the light they intended to turn on.  
 
@@ -97,7 +96,7 @@ This video show how the light level seosor works and after understanding it I am
 
 ### Design concept 2 ###
 
-The second concept I want to put into the design is use the acceleration sensor to warn the user they are going too fast. Most of the accident on road is cause by the unwareness of the driver. It doesn't matter if the car is safe in emergency, the best way to prevent it is avoid the getting into danger situation. I want to make a warning sound using the buzzer, when the sensor sensed that the acceleration is over a certain number the buzzer will make a warning sound. 
+The second concept I want to put into the design is use the acceleration sensor to warn the user they are going too fast. Most of the accident on road is cause by the unwareness of the driver. It doesn't matter if the car is safe in emergency, the best way to prevent it is avoid the getting into danger situation. I want to make a warning sound using the buzzer, when the sensor sensed that the acceleration is over a certain number the buzzer will make a warning sound. Also considering to add more function to the model car toward the ultimate design.
 
 ![Image](buzzer.jpg)
 The photo shown the buzzer and battery park location on the model car.
@@ -109,7 +108,7 @@ This link shown how the acclerometer work and I am going to learn how to use it 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
-So the final concept is to join the first two idea together and design how to build the model car using some simple material. 
+So the final concept is to join the first two idea together and design how to build the model car using some simple material. In the ultimate product, I will add some more function to the model car such as steering and more lighting effect. But for this stage, I would like to have a simple model to test if the concept is up to my design intent. 
 
 ![Image](final.jpg)
 This image shown the final concept of joinning the two inital idea together and the material I am going to use. And the location of each element 
