@@ -8,7 +8,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Interactive model Car 
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 Racical phone has skin that feels your pinch 
@@ -65,16 +64,12 @@ https://www.hackster.io/RONDAGDAG/rocky-rover-robotic-vision-system-pixycam-ardu
 This project is related to mine because this gives me an idea to build the model car. When building a model car, the hardest part would be making the chassis to have a appropriate size and function. It need to be strong enought to hold the wheel and others part that might need to be on it. So this project has gave me a great idea of how to build the car and the element that might be needed to make it look like a 'car'. 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
 
 https://www.mantralabsglobal.com/blog/10-basic-principles-of-interaction-design/
 
 This article is about the basic principles of interaction design. I used this principles to remind myself when I designing the final product. I found some of these principles very useful especially the affordability and functional minimalism. Sometimes I was a bit greddy and I want to put as much function in one design as I can but then it will be too complicated and messy, making it hard to use. So I learned to break it into different part and simplify the design. 
 
 ### *Brief resource name/description* ###
-
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
 
 https://web.archive.org/web/20130602154034/http://interactionivrea.org/proxy/src.php?dest=en%2Fabout%2Finteractiondesign%2Findex.asp
 
@@ -87,7 +82,6 @@ This article summary the general idea of interactive design. From sofeware to ha
 Improve the user experience of the car 
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 The first concept I want to put in the design is using the light sensor to achieve some action. I know there is some simliar excisting design out there but for this one I want to do more than automaticlly turn the light on and off I want the user have a choice, by add the button function I will let the user the choice the color of the light they intended to turn on.  
 
@@ -110,7 +104,6 @@ https://microbit-challenges.readthedocs.io/en/latest/tutorials/accelerometer.htm
 This link shown how the acclerometer work and I am going to learn how to use it and put it in the design. 
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 So the final concept is to join the first two idea together and design how to build the model car using some simple material. In the ultimate product, I will add some more function to the model car such as steering and more lighting effect. But for this stage, I would like to have a simple model to test if the concept is up to my design intent. 
 
@@ -151,7 +144,6 @@ This is another angel of the model
 I am considering use something else for the wheels since it doesn't look like it is gonna work with the cardboard.
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 Up to this point, I already developed the final concept toward the ultimate design. However, I found the difficulty of building the physical product. In the aspects of the Double Diamond design methodology I already been through the discover and define stage, and I am now at the develop stage. And facing the stuggle moving toward the deliver stage, the outcome at this point is not satisfy. The code is partly working but it is still didn't work the way I want it to be. More testing and building is needed for the success of the final design. Think back to the reseach I have done earlier, I overcome the functional minimalism problem I always has, I break it into small part and try to join them together in the final product. It makes the design less messy and the function I put in is real need. 
 
