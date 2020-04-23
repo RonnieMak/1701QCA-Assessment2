@@ -30,12 +30,21 @@ This project is related to mine because this is the technology that can be used 
 
 ### Related project 3 ###
 Interactive Mario Mushroom Block
+
 https://www.hackster.io/sclandinin/interactive-mario-mushroom-block-2235dd
-![Image]()
+
+![Image](box.jpg)
+
+This project is related to mine because it used the acceleration sensor to activate an action. In my design concept, I want to use the acceleration sensor to trigger some action as well. Plus I can reference the use of the material since it look simple but effective and it is something I can build at home.  
 
 ### Related project 4 ###
+Change RGB LED Connected to ESP12E from Web Page Using Knob
+
+https://iotmonk.com/courses/change-rgb-led-connected-esp12e-web-page-using-knob/
 
 ![Image]()
+
+This project is related to mine because it is a new way to control the color of the light. In one of my design concept, I want the user to able to control the light by the information recieved from the sensor. He used node MCU as his control module which in my case, I can use the micro bit. This inspired me a different way to let the user to control it. It might not need to be the exact same method but this apperantly could be a way out. 
 
 ### Related project 5 ###
 
