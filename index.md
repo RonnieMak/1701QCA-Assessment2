@@ -85,10 +85,23 @@ Improve the user experience of the car
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+
 The first concept I want to put in the design is using the light sensor to achieve some action. I know there is some simliar excisting design out there but for this one I want to do more than automaticlly turn the light on and off I want the user have a choice, by add the button function I will let the user the choice the color of the light they intended to turn on.  
+
+![Image](lightsensor.jpg)
+
+The photo shown some basic concept of the model car and the LED and seosor location.
+
 ### Design concept 2 ###
 
-The second concept I want to put into the design is use the acceleration sensor to warn the user they are going too fast. Most of the accident on road is cause by the unwareness of the driver. It doesn't matter if the car is safe in emergency, the best way to prevent it is avoid the getting into danger situation .
+The second concept I want to put into the design is use the acceleration sensor to warn the user they are going too fast. Most of the accident on road is cause by the unwareness of the driver. It doesn't matter if the car is safe in emergency, the best way to prevent it is avoid the getting into danger situation. I want to make a warning sound using the buzzer, when the sensor sensed that the acceleration is over a certain number the buzzer will make a warning sound. 
+
+![Image](buzzer.jpg)
+The photo shown the buzzer and battery park location on the model car.
+
+https://microbit-challenges.readthedocs.io/en/latest/tutorials/accelerometer.html
+
+This link shown how the acclerometer work and I am going to learn how to use it and put it in the design. 
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
