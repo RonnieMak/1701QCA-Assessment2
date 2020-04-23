@@ -17,7 +17,7 @@ https://www.fastcompany.com/90419364/this-radical-phone-has-skin-that-feels-your
 
 ![Image](skin .jpg)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because this is one of the material and technology that can be used to build the robot car, such as it can sense the user action and react.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
