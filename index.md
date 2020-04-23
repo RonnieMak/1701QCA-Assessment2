@@ -114,7 +114,7 @@ This link shown how the acclerometer work and I am going to learn how to use it 
 
 So the final concept is to join the first two idea together and design how to build the model car using some simple material. In the ultimate product, I will add some more function to the model car such as steering and more lighting effect. But for this stage, I would like to have a simple model to test if the concept is up to my design intent. 
 
-![Image](conpect.jpg)
+![Image](concept.jpg)
 
 This image shown the final concept of joinning the two inital idea together and the material I am going to use. And the location of each element. Also a list of upcoming feature I want to add to the final product.
 
@@ -126,28 +126,47 @@ This image shown the interaction flow between the product and the user.
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
 ![Image](code2.jpg)
+
 This is the code for the second concpet, buzzer to make the warning sound
 
 ![Image](lighton.jpg)
+
 This is the code for the first concept, display base on light level and allow user to select which color of light to turn.( no complete need improve)
+
 ![Image](final2.jpg)
+
 This is the sketch for the simple model build, using some very basic material and it is a very rough model
+
 ![Image](model3.jpg)
+
 This is the physical model I build 
+
 ![Image](model2.jpg)
+
 This is another angel of the model
+
 ![Image](model1.jpg)
+
 I am considering use something else for the wheels since it doesn't look like it is gonna work with the cardboard.
+
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
-Up to this point, I 
+
+Up to this point, I already developed the final concept toward the ultimate design. However, I found the difficulty of building the physical product. In the aspects of the Double Diamond design methodology I already been through the discover and define stage, and I am now at the develop stage. And facing the stuggle moving toward the deliver stage, the outcome at this point is not satisfy. The code is partly working but it is still didn't work the way I want it to be. More testing and building is needed for the success of the final design. Think back to the reseach I have done earlier, I overcome the functional minimalism problem I always has, I break it into small part and try to join them together in the final product. It makes the design less messy and the function I put in is real need. 
+
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+
+1. Lots of improve on the physical product: I need to discover different ways to build the final product since it require a lot of testing and trying different material and see how they work.
+
+2. Finalise the code for the light level and buzzer sound: Although the code is working, it still have rooms for improvement. Especially the function of the code at this stage is not fully fufill the inital design intent. 
+
+3. Consider more function that can be add into the design to improve the user experience. 
+
+4. Ask the tutor for advice and make changes on the design. 
+
+5. Countinually discover simliar design online and see if there is some idea I can use to improve the final design.
+
+6. Keep trying different things like code/ material, don't get stuck in one particular method! 
+
+
