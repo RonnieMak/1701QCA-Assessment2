@@ -42,7 +42,7 @@ Change RGB LED Connected to ESP12E from Web Page Using Knob
 
 https://iotmonk.com/courses/change-rgb-led-connected-esp12e-web-page-using-knob/
 
-![Image]()
+![Image](LED.jpg)
 
 This project is related to mine because it is a new way to control the color of the light. In one of my design concept, I want the user to able to control the light by the information recieved from the sensor. He used node MCU as his control module which in my case, I can use the micro bit. This inspired me a different way to let the user to control it. It might not need to be the exact same method but this apperantly could be a way out. 
 
