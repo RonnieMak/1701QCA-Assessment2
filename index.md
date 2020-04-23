@@ -75,6 +75,7 @@ This article is about the basic principles of interaction design. I used this pr
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+
 https://web.archive.org/web/20130602154034/http://interactionivrea.org/proxy/src.php?dest=en%2Fabout%2Finteractiondesign%2Findex.asp
 
 This article summary the general idea of interactive design. From sofeware to hardware as well as services Only when these three things are harmony together make a good interactive design. It also pointed out the different with traditional design and why is it important in today society. The real needs and possibilities to improve human existence are the is the main point of interactive design. This also reminds me there is a lot more interactive design in our life than we thought. 
@@ -114,12 +115,14 @@ This link shown how the acclerometer work and I am going to learn how to use it 
 So the final concept is to join the first two idea together and design how to build the model car using some simple material. In the ultimate product, I will add some more function to the model car such as steering and more lighting effect. But for this stage, I would like to have a simple model to test if the concept is up to my design intent. 
 
 ![Image](final2.jpg)
+
 This image shown the final concept of joinning the two inital idea together and the material I am going to use. And the location of each element. Also a list of upcoming feature I want to add to the final product.
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flow.jpg)
+
+This image shown the interaction flow between the product and the user. 
 
 ## Physical experimentation documentation ##
 
@@ -131,9 +134,10 @@ Ensure you include comments about the choices you've made along the way.*
 *You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
 
 ![Image](code2.jpg)
+This is the code for the buzzer to make the warning sound
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
-
+Up to this point, I 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
