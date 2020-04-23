@@ -15,7 +15,7 @@ Racical phone has skin that feels your pinch
 
 https://www.fastcompany.com/90419364/this-radical-phone-has-skin-that-feels-your-pinch
 
-![Image](skin.jpg)
+![Image](skin .jpg)
 
 This project is related to mine because *insert reasons here*.
 
