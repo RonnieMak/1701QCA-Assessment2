@@ -68,7 +68,7 @@ Improve the user experience of the car
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 The first concept I want to put in the design is using the light sensor to achieve some action. I know there is some simliar excisting design out there but for this one I want to do more than automaticlly turn the light on and off I want the user have a choice, by add the button function I will let the user the choice the color of the light they intended to turn on.  
 ### Design concept 2 ###
-*Put details here.*
+The second concept I want to put into the design is use the acceleration sensor to warn the user they are going too fast. Most of the accident on road is cause by the unwareness of the driver. It doesn't matter if the car is safe in emergency, the best way to prevent it is avoid the getting into danger situation .
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
