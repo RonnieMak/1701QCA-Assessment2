@@ -49,6 +49,9 @@ This project is related to mine because this is the technology that can be used 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
+https://www.mantralabsglobal.com/blog/10-basic-principles-of-interaction-design/
+This actile is about the basic principles of interaction design. I used this principles to remind myself when I designing the final product. I found some of the principles very useful especially the affordability and functional minimalism. Sometimes I was a bit greddy and I want to put as much function in one design as I can but then it will be too complicated and messy, making it hard to use. So I learned to break it into different part and simplify the design. 
+
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
