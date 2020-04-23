@@ -47,8 +47,13 @@ https://iotmonk.com/courses/change-rgb-led-connected-esp12e-web-page-using-knob/
 This project is related to mine because it is a new way to control the color of the light. In one of my design concept, I want the user to able to control the light by the information recieved from the sensor. He used node MCU as his control module which in my case, I can use the micro bit. This inspired me a different way to let the user to control it. It might not need to be the exact same method but this apperantly could be a way out. 
 
 ### Related project 5 ###
+WhatYouNeed( LED display base on data ) 
 
-![Image]()
+https://www.hackster.io/microBob/whatyouneed-
+
+![Image](display.jpg)
+
+This project is related to mine because the technique it used to display on a LCD pixel monitor base on different data could be included in my design. The mirco-bit has a small pixel display itself, I might not be able have a external screen like this project shown, however, the idea of display different things base on different condition could be used in my design. I probably have to discover more code for the mirco-bit to be able to do that. 
 
 ### Related project 6 ###
 
