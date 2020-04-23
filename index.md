@@ -17,7 +17,34 @@ https://www.fastcompany.com/90419364/this-radical-phone-has-skin-that-feels-your
 
 ![Image](skin.jpg)
 
-This project is related to mine because this is one of the material and technology that can be used to build the robot car, such as it can sense the user action and react.
+This project is related to mine because this is one of the material and technology that can be used to build the robot car, such as it can sense the user action and react. It can sense pinch, pull, ticliing etc. Each action can be used to assign different function. This can save a lot of spaces for buttons and control unit. In my design, I might be able to achieve this by use the buttons or something simliar to the replicing project the fruit keyboard by turning other material to a button to make action to the micro bit. 
+
+### Related project 2 ###
+UI lit by the light in your room 
+
+https://www.fastcompany.com/90288239/an-apple-alum-just-invented-the-next-skeuomorphism
+
+![Image](ui.jpg)
+
+This project is related to mine because this is the technology that can be used in the interior design in the car. Sometime we might find ourseleves consistantly adjusting the light in and outside the car. With this technology, the light will adjust itself by the environment. I think I can put this in my design using the light sensor in the mirco bit to dim and lit up the light. 
+
+### Related project 3 ###
+
+![Image]()
+
+### Related project 4 ###
+
+![Image]()
+
+### Related project 5 ###
+
+![Image]()
+
+### Related project 6 ###
+
+![Image]()
+
+
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
