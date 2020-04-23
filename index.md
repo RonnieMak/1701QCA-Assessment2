@@ -60,6 +60,7 @@ This project is related to mine because it is a new way to control the color of 
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 https://www.mantralabsglobal.com/blog/10-basic-principles-of-interaction-design/
+
 This actile is about the basic principles of interaction design. I used this principles to remind myself when I designing the final product. I found some of these principles very useful especially the affordability and functional minimalism. Sometimes I was a bit greddy and I want to put as much function in one design as I can but then it will be too complicated and messy, making it hard to use. So I learned to break it into different part and simplify the design. 
 
 ### *Brief resource name/description* ###
